@@ -1,0 +1,14 @@
+#Projects {
+  min-height: 100vh;
+  width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Projects__container {
+  height: 80%;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
